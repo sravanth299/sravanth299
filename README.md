@@ -2,7 +2,7 @@
   <h1 align="center"><b>Hi there <img align=center src="https://user-images.githubusercontent.com/26017543/213809353-c908d93c-3dff-4694-9d13-e0e5cbdb879c.png" alt="Waving Hand" width="36" height="36" /></h1>
 </p>
 
-<p align="center">I am a passionate Software Developer 🚀 having an experience of building Full Stack Web Applications<img align=center src="https://user-images.githubusercontent.com/26017543/213364962-e9e6b262-0dc8-4cca-9914-7f336340e26d.png" alt="Web" width="36" height="36" /></p>
+<p align="center">I am a passionate Software Developer 🚀 with experience in building Full Stack Web Applications, and I am also a dedicated tutor who loves helping others learn and grow in the world of coding and technology.<img align=center src="https://user-images.githubusercontent.com/26017543/213364962-e9e6b262-0dc8-4cca-9914-7f336340e26d.png" alt="Web" width="36" height="36" /></p>
 
 <br />
 
@@ -67,7 +67,7 @@
 <!-- <p align="center"> -->
 [![Portfolio](https://img.shields.io/badge/Website-black?style=flat-square&logo=google-chrome)](https://sravanth.co.uk)
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sravanth-space/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sravk299@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sravanthbaratam@gmail.com)
 [![Paypal](https://img.shields.io/badge/-Paypal-c14438?style=flat&logo=Paypal&logoColor=Green)](https://www.paypal.me/SBaratam?locale.x=en_GB)
 <!-- </p> -->
 
